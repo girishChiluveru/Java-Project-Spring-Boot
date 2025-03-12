@@ -60,7 +60,7 @@ H2 Console credentials:
 ```
 JDBC URL: jdbc:h2:mem:productdb
 Username: admin
-Password: Girish@09112005$
+Password: Girish@09112005
 ```
 
 ## Sample SQL Commands
